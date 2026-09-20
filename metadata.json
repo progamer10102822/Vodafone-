@@ -1,0 +1,8 @@
+{
+  "name": "Vodafone",
+  "description": "Vodafone Yanımda ve Vodafone Happy ile tarife ve bakiye takibi, hediye çarkı, özel indirimler ve sürpriz hediyeler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
